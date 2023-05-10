@@ -1,4 +1,4 @@
-# reddit-clong-backend
+# reddit-clone-backend
 
 This is my personal Java with Spring back-end project for learning full-stack application development
 using Spring and Angular. This is **not** a production ready projects. It lacks of many features and has some simplifiers.
